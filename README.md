@@ -1,6 +1,6 @@
 # Feat.com
 
-[feat.com](httpw://www.feat.com) is a platform for people to make the most for his talent.
+[feat.com](https://www.feat.com) is a platform for people to make the most for his talent.
 
 
 # The feat.com Issues Repo
